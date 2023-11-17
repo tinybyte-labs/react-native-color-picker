@@ -1,1 +1,2 @@
-export { Sliders } from "./Sliders";
+export * from "./ColorPicker";
+export * from "./RGBSliders";
